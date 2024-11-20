@@ -1,33 +1,32 @@
-# 👋 হ্যালো, আমি [আপনার নাম]!
+# 👋 Hello, I'm MD TAWHID!
 
-আমি একজন সফটওয়্যার ডেভেলপার এবং ওপেন সোর্স কন্ট্রিবিউটর। আমার কাজের প্রতি আগ্রহ এবং নতুন নতুন প্রযুক্তি শিখতে ভালোবাসি। এখানে কিছু তথ্য রয়েছে যা আমার প্রোফাইল সম্পর্কে আপনাকে জানাবে।
+I am a Software Developer and Open Source Contributor. I am passionate about my work and love learning new technologies. Here is some information that will give you an insight into my profile.
 
-## 🚀 টেকনিক্যাল স্কিলস
-- **প্রোগ্রামিং ভাষা**: Python, JavaScript, Java, C++
-- **ওয়েব টেকনোলজি**: HTML, CSS, React, Node.js
-- **ডাটাবেস**: MySQL, MongoDB
-- **টুলস**: Git, Docker, Kubernetes
-- **অপারেটিং সিস্টেম**: Linux, Windows
+## 🚀 Technical Skills
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Technologies**: HTML, CSS, React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, Kubernetes
+- **Operating Systems**: Linux, Windows
 
-## 📊 GitHub স্ট্যাটিস্টিকস
+## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=আপনার-ইউজারনেম&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🌱 আমি এখন যা শিখছি
-- React.js (ডিপ লেভেলে)
+## 🌱 Currently Learning
+- React.js (Deep Dive)
 - TypeScript
 - Cloud Computing (AWS)
 
-## 📩 যোগাযোগ করুন
-- ইমেইল: [আপনার ইমেইল]  
-- লিঙ্কডইন: [আপনার লিঙ্কডইন প্রোফাইল](লিঙ্কডইন ইউআরএল)
-- টুইটার: [আপনার টুইটার হ্যান্ডেল](টুইটার ইউআরএল)
+## 📩 Contact Me
+- Email: [Your Email]  
+- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
+- Twitter: [Your Twitter Handle](Twitter URL)
 
-## 🔧 মাই প্রজেক্টসমূহ
-- [প্রজেক্ট ১ নাম](প্রজেক্ট লিঙ্ক): একটি ওয়েব অ্যাপ্লিকেশন যা…
-- [প্রজেক্ট ২ নাম](প্রজেক্ট লিঙ্ক): একটি মোবাইল অ্যাপ্লিকেশন যা…
+## 🔧 My Projects
+- [Project 1 Name](Project Link): A web application that…
+- [Project 2 Name](Project Link): A mobile application that…
   
 ---
 
-> "কোডিং হল শিল্প এবং বিজ্ঞান, যেখানে আপনি বিশ্বের সমস্যা সমাধান করতে পারেন।" – [আপনার নাম]
-
+> "Coding is both an art and a science, where you can solve the world's problems." – [Your Name]
