@@ -1,31 +1,25 @@
-## 👋 Hello, I'm MD TAWHID ISLAM SIAM!
+# <p align="center">**👋 Hello, I'm MD TAWHID ISLAM SIAM!**</p>
 
-## 🌍 I'm from BANGLADESH 🇧🇩.
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-</p>
+## <p align="center">🌍 **I'm from BANGLADESH.**</p>
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate about coding and technology.
-- 🎨 Enjoy working on creative projects.
-- 🌱 Currently learning **Web Development**.
+### 🚀 **About Me**
+- 💻 **Passionate about coding and technology.**
+- 🎨 **Enjoy working on creative projects.**
+- 🌱 **Currently learning Web Development.**
 
 ---
 
-### ⚡ Coding Animation
+### ⚡ **Coding Animation**
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
+### 📫 **Connect with me**
+<p align="center">
   <a href="https://facebook.com/yourprofile" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
   </a>
@@ -40,5 +34,5 @@
 ---
 
 <p align="center">
-  🌟 Star this repository if you find it helpful!
+  🌟 **Star this repository if you find it helpful!**
 </p>
