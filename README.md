@@ -1,59 +1,44 @@
-# 👋 Hi, I'm MD TAWHID!
+## 👋 Hello, I'm MD TAWHID ISLAM SIAM!
 
-I'm a passionate **Software Developer** and **Open Source Contributor**. I specialize in building scalable, efficient, and innovative solutions using modern technologies. Let's connect and collaborate!
-
-## 🚀 Technical Skills
-
-**Languages:**  
-- 🐍 **Python**  
-- ⚡ **JavaScript**  
-- ☕ **Java**  
-- 💻 **C++**
-
-**Web Development:**  
-- 🌐 **HTML**  
-- 🎨 **CSS**  
-- ⚛️ **React.js**  
-- 🔥 **Node.js**
-
-**Databases:**  
-- 🗃️ **MySQL**  
-- 💾 **MongoDB**
-
-**Tools & DevOps:**  
-- 🔧 **Git**  
-- 🐳 **Docker**  
-- ☁️ **Kubernetes**
-
-**Operating Systems:**  
-- 🐧 **Linux**  
-- 🖥️ **Windows**
-
-## 📊 GitHub Stats
-
-![MD Tawhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 🌱 Currently Learning
-
-- ⚡ **Deep Dive into React.js**
-- 📝 **TypeScript**
-- ☁️ **Cloud Computing with AWS**
-
-## 🔧 Projects
-
-
-## 🌍 Connect with Me
-
-- 📧 **Email**:  
-- 💼 **LinkedIn**: 
-- 🐦 **Twitter**:
+## 🌍 I'm from BANGLADESH 🇧🇩.
 
 ---
 
-> "Coding is both an art and a science, where you can solve the world's problems." – MD TAWHID
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+</p>
 
 ---
 
-### 💡 Fun Fact
+### 🚀 About Me
+- 💻 Passionate about coding and technology.
+- 🎨 Enjoy working on creative projects.
+- 🌱 Currently learning **Web Development**.
 
-I love **problem-solving** and I'm always excited to learn new technologies. When I'm not coding, I enjoy **reading** and exploring **open-source projects**. Let’s build something amazing together! 🚀
+---
+
+### ⚡ Coding Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+</p>
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌟 Star this repository if you find it helpful!
+</p>
